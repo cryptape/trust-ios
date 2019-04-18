@@ -1,0 +1,6 @@
+framework module BLEPurseSDK {
+  umbrella header "BLEPurseSDK.h"
+
+  export *
+  module * { export * }
+}
